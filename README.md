@@ -2,6 +2,9 @@
 
 This project allows you to chat with an SQL database with using Langchain Agents and LLama. You can connect to either a local SQLite database or a MySQL database and interact with it using natural language queries.
 
+
+![project demo photo](https://github.com/OnurAsimIlhan/chat-sqldb-using-langchain/blob/main/sql-chat.png)
+
 ## Setup
 
 1. **Clone the repository:**
